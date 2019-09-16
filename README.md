@@ -2,7 +2,7 @@
 
 - Run `npm install`
 
-- To add a note to notes.json --> `node app.js add --title="Note Title" --body="Note Body"`
+- To add a note to notes.json: `node app.js add --title="Note Title" --body="Note Body"`
 
 - To remove a note: `node app.js remove --title="Note Title"`
 
